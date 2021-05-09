@@ -31,3 +31,5 @@ for i in range(10):
 print("### Game Over ###")
 print("Player 1 score:", player1_score)
 print("Player 2 score:", player2_score)
+
+#    © CYBERX TV PRODUCTION 2021
